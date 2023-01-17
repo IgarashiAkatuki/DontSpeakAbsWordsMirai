@@ -1,0 +1,2 @@
+# DontSpeakAbsWordsMirai
+DontSpeakAbsWords MiraiConsole插件 支持查询/模糊查询抽象词
