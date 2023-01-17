@@ -13,6 +13,7 @@ DontSpeakAbsWords MiraiConsole插件 支持查询/模糊查询抽象词
 - query fuzzy <word> 模糊查询
 - query ? 查询指令
 
-![image-20230117163823353](C:\Users\16780\AppData\Roaming\Typora\typora-user-images\image-20230117163823353.png)
+![image](https://user-images.githubusercontent.com/109781981/212849663-5c5b5eed-dc69-45c4-823e-d9e2be307fc7.png)
 
-![image-20230117163906256](C:\Users\16780\AppData\Roaming\Typora\typora-user-images\image-20230117163906256.png)
+
+![image](https://user-images.githubusercontent.com/109781981/212849699-7615ce08-e82c-4868-bc5d-3d359591eeec.png)
